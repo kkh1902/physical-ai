@@ -2,7 +2,7 @@
 import mujoco
 
 XML = """
-<mujoco>
+<mujoco model="01 Ball Drop (numbers)">
   <option timestep="0.001"/>
   <worldbody>
     <geom type="plane" size="2 2 0.1"/>
